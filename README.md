@@ -12,4 +12,5 @@ Personal (and public) repository to store studies, thoughts and cool stuff about
 - [How do cluster and worker threadss work in Node.js?](https://stackoverflow.com/questions/56656498/how-do-cluster-and-worker-threads-work-in-node-js)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
-# Projects and Libs
+# Projects and Concepts
+- [Worker Threads]('./../concepts/worker%20threads/index.js)
