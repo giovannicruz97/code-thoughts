@@ -10,5 +10,6 @@ Personal (and public) repository to store studies, thoughts and cool stuff about
 - [Don't block the Event Loop](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)
 - [Does async/await blocks the event loop?](https://stackoverflow.com/questions/51583483/does-async-await-blocks-event-loop)
 - [How do cluster and worker threadss work in Node.js?](https://stackoverflow.com/questions/56656498/how-do-cluster-and-worker-threads-work-in-node-js)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 # Projects and Libs
