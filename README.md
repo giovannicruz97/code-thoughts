@@ -11,7 +11,8 @@ Personal (and public) repository to store studies, thoughts and cool stuff about
 - [Does async/await blocks the event loop?](https://stackoverflow.com/questions/51583483/does-async-await-blocks-event-loop) [EN]
 - [How do cluster and worker threadss work in Node.js?](https://stackoverflow.com/questions/56656498/how-do-cluster-and-worker-theads-work-in-node-js) [EN]
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) [EN]
+- [Analisando a Dívida Técnica](https://www.infoq.com/br/news/2009/10/dissecting-technical-debt/) [PT-BR]
+- [O guia completo do gRPC: gPRC e Javascript](https://blog.lsantos.dev/o-guia-do-grpc-2/) [PT-BR]
 
 # Projects and Concepts
 - [Worker Threads]('./../concepts/worker%20threads/index.js) [EN]
-- [O guia completo do gRPC: gPRC e Javascript](https://blog.lsantos.dev/o-guia-do-grpc-2/) [PT-BR]
