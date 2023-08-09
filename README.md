@@ -15,6 +15,7 @@ Personal (and public) repository to store studies, thoughts and cool stuff about
 - [Analisando a Dívida Técnica](https://www.infoq.com/br/news/2009/10/dissecting-technical-debt/) [PT-BR]
 - [O guia completo do gRPC: gPRC e Javascript](https://blog.lsantos.dev/o-guia-do-grpc-2/) [PT-BR]
 - [Netflix Tech Blog](https://netflixtechblog.com/)
+- [Single threads x Multi threads approach](https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests/34857298#34857298) [EN]
 
 # Projects and Concepts
 - [Worker Threads]('./../concepts/worker%20threads/index.js) [EN]
